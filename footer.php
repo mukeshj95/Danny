@@ -1,4 +1,4 @@
-<footer class="animated">
+<footer class="animated parallax">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -61,18 +61,6 @@
 
 <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
 <script>
-    window.load(function () {
-        $('.lazy').Lazy({
-            // your configuration goes here
-            scrollDirection: 'vertical',
-            effect: 'fadeIn',
-            visibleOnly: true,
-            onError: function(element) {
-                console.log('error loading ' + element.data('src'));
-            }
-        });
-    });
-    
     new WOW().init();
 
 </script>
