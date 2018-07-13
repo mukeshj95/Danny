@@ -270,6 +270,9 @@ div.card:hover .card-header {
 .bg_images{position: absolute;top: 0;left: 0;width: 100%;height: 100%;background-size: cover;background-repeat: no-repeat;background-position: center;}
 .bg_images.work__1{background-image: url("../img/work_1.jpg");}
 .bg_images.work__2{background-image: url("../img/work_2.jpg");}
+.bg_images.blog_1{background-image: url("../img/blog_1.jpg");}
+.bg_images.blog_2{background-image: url("../img/blog_2.jpg");}
+
 .col_count_2{column-count: 2;}
 /****** about ******/
 .middeleText {
