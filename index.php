@@ -79,6 +79,39 @@
         </div>
     </div>
 </section>
+<section>
+    <div class="container mb-5">
+        <div class="plyr__video-embed player" id="">
+            <iframe src="https://player.vimeo.com/video/76979871?loop=false&amp;byline=false&amp;portrait=false&amp;title=false&amp;speed=true&amp;transparent=0&amp;gesture=media" allowfullscreen allowtransparency allow="autoplay"></iframe>
+            <!--<iframe src="https://www.youtube.com/embed/a3ICNMQW7Ok" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 mb-5">
+                <div class="card">
+                    <div class="card-block">
+                        <div class="card-header"></div>
+                        <div class="plyr__video-embed player1" id="">
+                            <iframe src="https://player.vimeo.com/video/76979871?loop=false&amp;byline=false&amp;portrait=false&amp;title=false&amp;speed=true&amp;transparent=0&amp;gesture=media" allowfullscreen allowtransparency allow="autoplay"></iframe>
+                            <!--<iframe src="https://www.youtube.com/embed/a3ICNMQW7Ok" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-5">
+                <div class="card">
+                    <div class="card-block">
+                        <div class="plyr__video-embed player2" id="">
+                            <iframe src="https://player.vimeo.com/video/76979871?loop=false&amp;byline=false&amp;portrait=false&amp;title=false&amp;speed=true&amp;transparent=0&amp;gesture=media" allowfullscreen allowtransparency allow="autoplay"></iframe>
+                            <!--<iframe src="https://www.youtube.com/embed/a3ICNMQW7Ok" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 

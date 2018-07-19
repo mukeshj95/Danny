@@ -83,11 +83,28 @@ $(window).scroll(function () {
     if (iCurScrollPos > iScrollPos) {
         //Scrolling Down
         $('header').css({'transform': 'translate(0%, -100%) matrix(1, 0, 0, 1, 0, 0)',
-            'transition': 'all 0.5s'});
+            'transition': 'all 0.5s',
+        'background-color': 'transparent'});
     } else {
         //Scrolling Up
         $('header').css({'transform': 'matrix(1, 0, 0, 1, 0, 0)',
-            'transition': 'all 0.5s'});
+            'transition': 'all 0.5s',
+        'background-color': '#5676e3'});
     }
     iScrollPos = iCurScrollPos;
 });
+
+    $(window).scroll(function(){
+        var scroll = $(window).scrollTop();
+        if (scroll > 100) {
+            $('header').css({
+                'background':'#5676e3'
+            });
+        }
+        else{
+            $('header').css({
+                'background':'transparent',
+                'box-shadow': 'none'
+            });
+        }
+    });

@@ -56,12 +56,22 @@
 <script src="plugins/js/circles.min.js"></script>
 <script src="plugins/js/wow.min.js"></script>
 <script src="plugins/js/jquery.matchHeight.js"></script>
-<script src="js/main.min.js"></script>
+<script src="plugins/js/plyr.min.js"></script>
+<script src="js/main.js"></script>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a66f5a2991fbbfd"></script>
 
 <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
 <script>
     new WOW().init();
+
+    /*var player = new Plyr('#player');
+    player.autoplay = 1;
+    player.fullscreen({
+        enabled: false
+    });*/
+    var player = new Plyr('.player');
+    var player = new Plyr('.player1');
+    var player = new Plyr('.player2');
 
 </script>
 </body>
