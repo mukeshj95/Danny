@@ -272,8 +272,25 @@ div.card:hover .card-header {
 .bg_images.work__2{background-image: url("../img/work_2.jpg");}
 .bg_images.blog_1{background-image: url("../img/blog_1.jpg");}
 .bg_images.blog_2{background-image: url("../img/blog_2.jpg");}
-
+.bg_images.blog_detail_1{background-image: url("../img/blog_detail_1.jpg");}
+.bg_images.blog_detail_2{background-image: url("../img/blog_detail_2.jpg");}
+.bg_images.blog_detail_3{background-image: url("../img/blog_detail_3.jpg");}
+.owl-carousel .background:before{padding-top: 50%;}
+.owl-dot, .owl-dots {height: 10px;text-align: center;}
+.owl-carousel button.owl-dot.active {background: #FFFFFF;}
+.owl-carousel button.owl-dot {border: 1px solid #ffffff;border-radius: 100%;width: 10px;margin: 0 0.5rem;outline: none;}
+.owl-carousel .owl-nav button.owl-prev {position: absolute;left: 0;top: 50%;border: 0;cursor: pointer;margin-top: -1.5rem;height: 3rem;width: 3.5rem;outline: none;background: rgba(255,255,255, 0.5);color: #222222;}
+.owl-carousel .owl-nav button.owl-next {position: absolute;right: 0;top: 50%;border: 0;cursor: pointer;margin-top: -1.5rem;height: 3rem;width: 3.5rem;outline: none;background: rgba(255,255,255, 0.5);color: #222222;}
+.owl-carousel .owl-nav button span {font-size: 2rem;}
 .col_count_2{column-count: 2;}
+.headings{width: 100%;text-align: center;}
+.headings .white{color: #ffffff;}
+.headings.blogs{padding: 1.5rem 0;}
+.headings.blogs h1 {font-size: 3rem;}
+.img_circle{padding: 1rem 0;}
+.img_circle img{border-radius: 100%;}
+h3.title{text-align: center;}
+
 /****** about ******/
 .middeleText {
   height: 100%;
