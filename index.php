@@ -112,6 +112,41 @@
         </div>
     </div>
 </section>
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="title">
+                <h2 class="title">News & Blogs</h2>
+            </div>
+            <div class="col-lg-4">
+                <div class="row">
+                    <div class="img_container">
+                        <div class="background">
+                            <div class="bg_images blog_1"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="row">
+                    <div class="blog_sec p-5">
+                        <label>Blog Title</label>
+                        <h4>Eat, Sleep, Rave repeat: the ultimate Tomorrowland guide</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="row">
+                    <div class="img_container">
+                        <div class="background">
+                            <div class="bg_images blog_2"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 
