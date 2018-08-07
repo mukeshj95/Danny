@@ -30,7 +30,7 @@
 </section>
 <section class="parallax about_bg">
     <div class="container">
-        <div class="row">
+        <div class="row" data-plugin="matchHeight" data-by-row="true">
             <div class="col-md-6">
                 <div class="img_container">
                     <div class="images">

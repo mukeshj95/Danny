@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="column">
-                    <h2>Send an Enquiry here</h2>
+                    <h3 class="text-center">Leave a reply</h3>
                     <form>
                         <div class="group">
                             <input type="text" required id="name" class="form-control">
@@ -58,6 +58,8 @@
 <script src="plugins/js/jquery.matchHeight.js"></script>
 <script src="plugins/js/plyr.min.js"></script>
 <script src="js/main.js"></script>
+<script src="plugins/js/owl.carousel.min.js"></script>
+<script src="js/main.min.js"></script>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a66f5a2991fbbfd"></script>
 
 <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->

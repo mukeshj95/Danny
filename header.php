@@ -28,6 +28,7 @@
     <link rel="stylesheet" type="text/css" href="plugins/css/hover-min.css">
     <link rel="stylesheet" type="text/css" href="plugins/css/animate.css">
     <link rel="stylesheet" type="text/css" href="plugins/css/plyr.css">
+    <link rel="stylesheet" type="text/css" href="plugins/css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/animation.min.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/response.css">
